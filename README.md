@@ -6,6 +6,6 @@ Olá!👋
 
 ❓ Meus interesses principais: Inteligência artificial e Progamação competitiva.
 
-😄 Fato curioso: aprendi uma parte majoritária de inglês jogando jogos online como Roblox.
+😄 Fato curioso: aprendi uma parte majoritária de inglês jogando Lego.
 
 🔔 Caso queira entrar em contato, mande um email para gaalbu42@gmail.com

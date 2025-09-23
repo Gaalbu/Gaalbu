@@ -2,7 +2,7 @@ Olá!👋
 
 🎲 Meu nome é Gabriel Alencar, e atualmente estou cursando o curso de Ciência da Computação, com o intuito de ingressar na área de ciência de dados!
 
-✍️ Atualmente estou muito interessados em linguagens de alto nível, como Java,Python, Html, Css e Javascript. Entretanto, também possuo conhecimentos em linguaguens de baixo nível, como o C!
+✍️ Atualmente estou muito interessados em linguagens de alto nível, como Java,Python, Html, Css, C e C++
 
 ❓ Meus interesses principais: Inteligência artificial e Progamação competitiva.
 

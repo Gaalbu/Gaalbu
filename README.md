@@ -1,15 +1,9 @@
-Olá!👋
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-🎲 Meu nome é Gabriel Alencar, e atualmente estou cursando o curso de Ciência da Computação, com o intuito de ingressar na área de ciência de dados!
-
-✍️ Atualmente estou muito interessados em linguagens de alto nível, como Java,Python, Html, Css, C e C++
-
-❓ Meus interesses principais: Inteligência artificial e Progamação competitiva.
-
-😄 Fato curioso: aprendi uma parte majoritária de inglês jogando Lego.
-
-🔔 Caso queira entrar em contato, mande um email para gabrielalencarem@gmail.com
-
-![Seu Nome de Usuário's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaalbu&show_icons=true&theme=github_dark)
+![Gaalbu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaalbu&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaalbu&layout=compact&theme=github_dark)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gaalbu&theme=github-dark&hide_border=true)](https://git.io/streak-stats)

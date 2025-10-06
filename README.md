@@ -8,4 +8,8 @@ Olá!👋
 
 😄 Fato curioso: aprendi uma parte majoritária de inglês jogando Lego.
 
-🔔 Caso queira entrar em contato, mande um email para gaalbu42@gmail.com
+🔔 Caso queira entrar em contato, mande um email para gabrielalencarem@gmail.com
+
+![Seu Nome de Usuário's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaalbu&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaalbu&layout=compact&theme=github_dark)
+

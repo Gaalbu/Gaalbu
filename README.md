@@ -6,4 +6,4 @@
 ![Gaalbu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaalbu&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaalbu&layout=compact&theme=github_dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Gaalbu&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gaalbu&theme=github-dark&hide_border=true)(https://git.io/streak-stats)

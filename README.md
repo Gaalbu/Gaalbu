@@ -3,5 +3,4 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![Gaalbu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaalbu&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaalbu&layout=compact&theme=github_dark)
+

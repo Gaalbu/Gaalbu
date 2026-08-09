@@ -1,76 +1,55 @@
-**Backend / Full Stack Developer · Java · Spring Boot · TypeScript**
+# Gabriel Albuquerque Alencar
 
-Estagiário no Tribunal Regional do Trabalho da 8ª Região (TRT8). Escrevo APIs que não desmoronam sob carga e interfaces que não parecem feitas às pressas.
+**Backend / Full-stack Developer · Java · Spring Boot · TypeScript**
 
-Fora do expediente transformo problema do dia a dia em projeto: um jeito de saber pra onde foi meu dinheiro, uma forma de mandar arquivo do celular pro Linux sem depender de nuvem. Gosto de terminar o que começo — a maioria dos repositórios abaixo tem testes, CI e um README que explica de verdade como rodar o projeto.
+Atuo com desenvolvimento backend e full-stack, com Java e Spring Boot como stack principal e TypeScript como segunda frente. Sou estagiário no Tribunal Regional do Trabalho da 8ª Região (TRT8) e tenho interesse em construir software para problemas reais.
 
-**Portfólio [gabriel-ruddy.vercel.app↗](https://portfolio-gabriel-ruddy.vercel.app/pt)**
+## Stack
 
-## Projetos em Destaque
+**Backend**
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- Java
+- Spring Boot
 
-<h3>Supply Chain API</h3>
+**Frontend / Full-stack**
 
-![](https://img.shields.io/badge/Projeto_atual-0d1117?style=flat-square&color=22C55E)
+- TypeScript
+- Angular
+- React
+- Next.js
 
-Rastreio de cadeia de fornecimento com eventos assíncronos, filas e trilha de auditoria completa. Monorepo com API e frontend.
+**Dados / Infra**
 
-`Spring Boot` `Angular` `RabbitMQ` `PostgreSQL`
+- PostgreSQL
+- RabbitMQ
+- Docker
+- GitHub Actions
 
-[Ver repositório →](https://github.com/Gaalbu/Supply-chain-API)
+## Projetos principais
 
-</td>
-<td width="50%" valign="top">
+### [Supply Chain API](https://github.com/Gaalbu/Supply-chain-API)
 
-<h3>Cadê Meu Dinheiro?</h3>
+Monorepo para cadastro e rastreio de pacotes. Combina uma API Spring Boot, interface Angular, persistência PostgreSQL e publicação de mudanças de status pelo RabbitMQ.
 
-![](https://img.shields.io/badge/Mais_completo-0d1117?style=flat-square&color=22C55E)
+### [Cadê Meu Dinheiro?](https://github.com/Gaalbu/cade-meu-dinheiro)
 
-Livro-caixa pessoal multiusuário: categorização automática, metas e orçamento, com captura de gastos direto das notificações do Android via webhook.
+Aplicação de finanças pessoais com orçamento, metas e captura de despesas do Android por webhook. Usa Next.js, React, TypeScript, Prisma, PostgreSQL e Supabase Auth, com isolamento de dados por usuário e deduplicação de lançamentos importados.
 
-`TypeScript` `Angular` `Automação Android`
+### [LocalBridge](https://github.com/Gaalbu/LocalBridge)
 
-[Ver repositório →](https://github.com/Gaalbu/cade-meu-dinheiro)
+Transferência P2P de arquivos entre Android e Linux na rede local. O aplicativo Flutter usa descoberta mDNS, aceite explícito e streaming de arquivos; o protocolo atual não criptografa o tráfego da LAN.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### [AI Usage Widget](https://github.com/Gaalbu/ai-usage-widget)
 
-<h3>LocalBridge</h3>
+Extensão para GNOME Shell que exibe janelas de uso do Claude Code e do Codex. O coletor em Python usa o app-server local documentado do Codex e uma interface não pública do Claude Code, limitação registrada no projeto.
 
-![](https://img.shields.io/badge/Ferramenta_útil-0d1117?style=flat-square&color=22C55E)
+## Projetos adicionais
 
-Transferência de arquivos P2P entre Android e Linux na rede local — sem nuvem, sem conta, sem custo. Descoberta automática via mDNS.
+- [ReceitasApi](https://github.com/Gaalbu/ReceitasApi) — aplicação full-stack de gestão de receitas com Spring Boot e Angular.
+- [Algebra Tiles](https://github.com/Gaalbu/algebra-tiles) — ambiente interativo de aprendizagem de álgebra com React e TypeScript.
 
-`Flutter` `Dart`
+## Links
 
-[Ver repositório →](https://github.com/Gaalbu/LocalBridge)
-
-</td>
-<td width="50%" valign="top">
-
-<h3>ReceitasApi</h3>
-
-![](https://img.shields.io/badge/Cobertura_de_testes-0d1117?style=flat-square&color=22C55E)
-
-Gestão gastronômica fullstack com autenticação JWT, Angular SSR, cobertura de testes acima de 70% e análise estática via SonarQube.
-
-`Spring Boot` `Angular SSR` `JWT`
-
-[Ver repositório →](https://github.com/Gaalbu/ReceitasApi)
-
-</td>
-</tr>
-</table>
-
-Os demais repositórios são estudo aplicado — estruturas de dados, ciência de dados, algoritmos evolutivos, desafios de entrevista técnica.
-
-## Contato
-
-[![](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&color=0d1117)](https://www.linkedin.com/in/gabriel-albuquerque-alencar/)
-[![](https://img.shields.io/badge/Portfólio-0d1117?style=flat-square&color=0d1117)](https://portfolio-gabriel-ruddy.vercel.app/pt)
-[![](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&color=0d1117)](https://github.com/Gaalbu)
+- [Portfólio](https://portfolio-gabriel-ruddy.vercel.app/pt)
+- [LinkedIn](https://www.linkedin.com/in/gabriel-albuquerque-alencar/)
+- [GitHub](https://github.com/Gaalbu)

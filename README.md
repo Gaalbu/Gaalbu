@@ -1,4 +1,4 @@
-**Dev Full Stack · Java/Spring Boot · Angular**
+**Backend / Full Stack Developer · Java · Spring Boot · TypeScript**
 
 Estagiário no Tribunal Regional do Trabalho da 8ª Região (TRT8). Escrevo APIs que não desmoronam sob carga e interfaces que não parecem feitas às pressas.
 

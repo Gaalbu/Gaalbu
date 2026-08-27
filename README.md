@@ -39,7 +39,7 @@ Aplicação de finanças pessoais com orçamento, metas e captura de despesas do
 
 Transferência P2P de arquivos entre Android e Linux na rede local. O aplicativo Flutter usa descoberta mDNS, aceite explícito e streaming de arquivos; o protocolo atual não criptografa o tráfego da LAN.
 
-### [AI Usage Widget](https://github.com/Gaalbu/ai-usage-widget)
+### [Tokidachi](https://github.com/Gaalbu/tokidachi)
 
 Extensão para GNOME Shell que exibe janelas de uso do Claude Code e do Codex. O coletor em Python usa o app-server local documentado do Codex e uma interface não pública do Claude Code, limitação registrada no projeto.
 

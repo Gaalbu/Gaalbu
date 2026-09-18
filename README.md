@@ -1,5 +1,7 @@
 <div align="center">
 
+    🔎
+
 # Gabriel Albuquerque Alencar
 
 ### Backend & Full-stack Developer
@@ -107,3 +109,5 @@ Docker · GitHub Actions · Linux · Python · Flutter · Dart
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-180b0b?style=flat-square&logo=linkedin&logoColor=C1121F)](https://www.linkedin.com/in/gabriel-albuquerque-alencar/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-180b0b?style=flat-square&logo=vercel&logoColor=C1121F)](https://portfolio-gabriel-ruddy.vercel.app/pt)
 [![GitHub](https://img.shields.io/badge/GitHub-180b0b?style=flat-square&logo=github&logoColor=C1121F)](https://github.com/Gaalbu)
+
+    🔎

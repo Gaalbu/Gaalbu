@@ -117,8 +117,8 @@ Aplicação full-stack de gestão gastronômica com autenticação JWT, Angular 
 ## Estatísticas
 
 <div align="center">
-  <img height="160" src="https://github-stats-extended.vercel.app/api?username=Gaalbu&show_icons=true&theme=default&hide_border=true&title_color=C1121F&icon_color=C1121F&text_color=e6edf3" alt="Estatísticas do GitHub de Gabriel Albuquerque Alencar">
-  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gaalbu&layout=compact&theme=default&hide_border=true&title_color=C1121F&text_color=e6edf3" alt="Linguagens mais usadas por Gabriel Albuquerque Alencar">
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=Gaalbu&show_icons=true&theme=dark&hide_border=true&title_color=C1121F&icon_color=C1121F&text_color=e6edf3" alt="Estatísticas do GitHub de Gabriel Albuquerque Alencar">
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gaalbu&layout=compact&theme=dark&hide_border=true&title_color=C1121F&text_color=e6edf3" alt="Linguagens mais usadas por Gabriel Albuquerque Alencar">
 </div>
 
 ## Atualmente

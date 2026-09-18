@@ -1,6 +1,6 @@
 <div align="center">
 
-    🔎
+<img src="./assets/gaalbu-mark.svg" width="36" alt="Marca Gaalbu">
 
 # Gabriel Albuquerque Alencar
 
@@ -83,19 +83,43 @@ Aplicação full-stack de gestão gastronômica com autenticação JWT, Angular 
 </tr>
 </table>
 
-## Stack
+## Tecnologias
 
 ### Backend
 
-Java · Spring Boot · PostgreSQL · RabbitMQ
+<p>
+  <img src="https://img.shields.io/badge/Java-180b0b?style=flat-square&logo=openjdk&logoColor=C1121F" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-180b0b?style=flat-square&logo=springboot&logoColor=C1121F" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/PostgreSQL-180b0b?style=flat-square&logo=postgresql&logoColor=C1121F" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/RabbitMQ-180b0b?style=flat-square&logo=rabbitmq&logoColor=C1121F" alt="RabbitMQ">
+</p>
 
 ### Frontend / Full-stack
 
-TypeScript · Angular · React · Next.js
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-180b0b?style=flat-square&logo=typescript&logoColor=C1121F" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Angular-180b0b?style=flat-square&logo=angular&logoColor=C1121F" alt="Angular">
+  <img src="https://img.shields.io/badge/React-180b0b?style=flat-square&logo=react&logoColor=C1121F" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-180b0b?style=flat-square&logo=nextdotjs&logoColor=C1121F" alt="Next.js">
+</p>
 
 ### Infraestrutura e ferramentas
 
-Docker · GitHub Actions · Linux · Python · Flutter · Dart
+<p>
+  <img src="https://img.shields.io/badge/Docker-180b0b?style=flat-square&logo=docker&logoColor=C1121F" alt="Docker">
+  <img src="https://img.shields.io/badge/GitHub_Actions-180b0b?style=flat-square&logo=githubactions&logoColor=C1121F" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Linux-180b0b?style=flat-square&logo=linux&logoColor=C1121F" alt="Linux">
+  <img src="https://img.shields.io/badge/Python-180b0b?style=flat-square&logo=python&logoColor=C1121F" alt="Python">
+  <img src="https://img.shields.io/badge/Flutter-180b0b?style=flat-square&logo=flutter&logoColor=C1121F" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-180b0b?style=flat-square&logo=dart&logoColor=C1121F" alt="Dart">
+</p>
+
+## Estatísticas
+
+<div align="center">
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=Gaalbu&show_icons=true&theme=default&hide_border=true&title_color=C1121F&icon_color=C1121F&text_color=e6edf3" alt="Estatísticas do GitHub de Gabriel Albuquerque Alencar">
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gaalbu&layout=compact&theme=default&hide_border=true&title_color=C1121F&text_color=e6edf3" alt="Linguagens mais usadas por Gabriel Albuquerque Alencar">
+</div>
 
 ## Atualmente
 
@@ -110,4 +134,6 @@ Docker · GitHub Actions · Linux · Python · Flutter · Dart
 [![Portfólio](https://img.shields.io/badge/Portfólio-180b0b?style=flat-square&logo=vercel&logoColor=C1121F)](https://portfolio-gabriel-ruddy.vercel.app/pt)
 [![GitHub](https://img.shields.io/badge/GitHub-180b0b?style=flat-square&logo=github&logoColor=C1121F)](https://github.com/Gaalbu)
 
-    🔎
+<br>
+
+<img src="./assets/gaalbu-mark.svg" width="28" alt="Marca Gaalbu">

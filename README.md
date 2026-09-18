@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/gaalbu-mark.svg" width="36" alt="Marca Gaalbu">
+<h3>🍀</h3>
 
 # Gabriel Albuquerque Alencar
 
@@ -136,4 +136,4 @@ Aplicação full-stack de gestão gastronômica com autenticação JWT, Angular 
 
 <br>
 
-<img src="./assets/gaalbu-mark.svg" width="28" alt="Marca Gaalbu">
+<h3>🍀</h3>

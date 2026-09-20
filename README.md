@@ -3,7 +3,7 @@
 <h3>🍀</h3>
 
 <a href="https://github.com/Gaalbu">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Construindo+APIs+confi%C3%A1veis+com+Java+%26+Spring+Boot;Interfaces+completas+com+Angular+%26+React;Ferramentas+%C3%BAteis+para+problemas+reais;Sempre+aprendendo+algo+novo&font=Fira+Code&center=true&width=560&height=45&color=E63946&vCenter=true&size=20&pause=1800&background=00000000" alt="Frases em destaque">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Gabriel+Albuquerque+Alencar;Interfaces+completas+com+Angular+%26+React;Construindo+Apis+De+Impacto;Ferramentas+%C3%BAteis+para+problemas+reais;Sempre+aprendendo+algo+novo&font=Fira+Code&center=true&width=560&height=45&color=E63946&vCenter=true&size=20&pause=1800&background=00000000" alt="Frases em destaque">
 </a>
 
 <p>

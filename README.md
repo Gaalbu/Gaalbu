@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:180b0b,50:C1121F,100:780000&text=Gabriel%20Albuquerque%20Alencar&fontColor=e6edf3&fontSize=38&fontAlignY=40&animation=fadeIn&desc=Backend%20%26%20Full-stack%20Developer&descAlignY=62&descSize=18" width="100%" alt="Banner Gabriel Albuquerque Alencar">
-
 <h3>🍀</h3>
 
 <a href="https://github.com/Gaalbu">
@@ -136,10 +134,6 @@ Aplicação full-stack de gestão gastronômica com autenticação JWT, Angular 
   <img src="https://streak-stats.demolab.com/?user=Gaalbu&theme=dark&hide_border=true&background=00000000&ring=C1121F&fire=C1121F&currStreakLabel=C1121F&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=8a8a8a" alt="Streak de contribuições de Gabriel Albuquerque Alencar">
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gaalbu&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="Troféus do GitHub de Gabriel Albuquerque Alencar">
-</div>
-
 ## Atualmente
 
 - Desenvolvendo sistemas no TRT8
@@ -154,7 +148,5 @@ Aplicação full-stack de gestão gastronômica com autenticação JWT, Angular 
 [![GitHub](https://img.shields.io/badge/GitHub-C1121F?style=flat-square&logo=github&logoColor=e6edf3&labelColor=0d0d0d)](https://github.com/Gaalbu)
 
 <br>
-
-<h3>🍀</h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:780000,50:C1121F,100:180b0b&section=footer" width="100%">

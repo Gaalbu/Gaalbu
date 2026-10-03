@@ -28,7 +28,7 @@ interfaces completas e ferramentas úteis para problemas reais.
 
 ## Sobre mim
 
-Sou estudante de Ciência da Computação e estagiário no Tribunal Regional do Trabalho da 8ª Região (TRT8). Trabalho principalmente com Java, Spring Boot, TypeScript e Angular, com interesse em construir software bem estruturado, testável e útil.
+Sou estudante de Ciência da Computação e estagiário no Tribunal Regional do Trabalho da 8ª Região (TRT8). Trabalho principalmente com Java, Spring Boot, TypeScript e Angular, com interesse em construir software bem estruturado, testável e útil. Tenho 3 PRs aceitas no [ai-memory](https://github.com/akitaonrails/ai-memory) (Rust, 8.800+ estrelas) e busco estágio ou vaga júnior em backend e full stack, remoto ou em Belém.
 
 Fora do trabalho, transformo problemas do dia a dia em projetos: sistemas de rastreio, ferramentas para desenvolvimento e aplicações interativas de aprendizagem.
 
@@ -45,13 +45,13 @@ Fora do trabalho, transformo problemas do dia a dia em projetos: sistemas de ras
 <tr>
 <td width="50%" valign="top">
 
-### [Supply Chain API](https://github.com/Gaalbu/Supply-chain-API)
+### [De Lá do Pará](https://github.com/Gaalbu/de-la-do-para)
 
 ![Projeto atual](https://img.shields.io/badge/Projeto_atual-0d0d0d?style=flat-square&color=C1121F)
 
-Rastreio de pacotes com eventos assíncronos, filas e trilha de auditoria. Monorepo com API Spring Boot, frontend Angular, PostgreSQL e RabbitMQ.
+Loja de produtos paraenses com checkout confiável: outbox transacional, consumidores idempotentes, reserva atômica de estoque e conciliação de pagamento (Asaas Sandbox). Monólito modular em Spring Boot com PostgreSQL e Kafka, e vitrine em Angular com SSR. Em desenvolvimento.
 
-`Projeto atual` · `Spring Boot` `Angular` `RabbitMQ` `PostgreSQL`
+`Projeto atual` · `Spring Boot` `Kafka` `PostgreSQL` `Angular SSR`
 
 </td>
 <td width="50%" valign="top">
@@ -90,6 +90,30 @@ Aplicação full-stack de gestão gastronômica com autenticação JWT, Angular 
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [ai-memory (contribuições)](https://github.com/akitaonrails/ai-memory/pulls?q=is%3Apr+author%3AGaalbu+is%3Amerged)
+
+![Open source](https://img.shields.io/badge/Open_source-0d0d0d?style=flat-square&color=C1121F)
+
+Três PRs aceitas em um projeto de memória persistente para agentes de código: correção de um crash exclusivo do Windows na migração para a v2 (lock de arquivo travando o backup) e ajustes nos hooks do Cursor.
+
+`Open source` · `Rust` `Windows` `Hooks`
+
+</td>
+<td width="50%" valign="top">
+
+### [Supply Chain API](https://github.com/Gaalbu/Supply-chain-API)
+
+![Event-driven](https://img.shields.io/badge/Event--driven-0d0d0d?style=flat-square&color=C1121F)
+
+Rastreio de pacotes com eventos assíncronos, filas e trilha de auditoria. Monorepo com API Spring Boot, frontend Angular, PostgreSQL e RabbitMQ.
+
+`Event-driven` · `Spring Boot` `Angular` `RabbitMQ` `PostgreSQL`
+
+</td>
+</tr>
 </table>
 
 ## Tecnologias
@@ -101,6 +125,7 @@ Aplicação full-stack de gestão gastronômica com autenticação JWT, Angular 
   <img src="https://img.shields.io/badge/Spring_Boot-C1121F?style=flat-square&logo=springboot&logoColor=e6edf3&labelColor=0d0d0d" alt="Spring Boot">
   <img src="https://img.shields.io/badge/PostgreSQL-C1121F?style=flat-square&logo=postgresql&logoColor=e6edf3&labelColor=0d0d0d" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/RabbitMQ-C1121F?style=flat-square&logo=rabbitmq&logoColor=e6edf3&labelColor=0d0d0d" alt="RabbitMQ">
+  <img src="https://img.shields.io/badge/Kafka-C1121F?style=flat-square&logo=apachekafka&logoColor=e6edf3&labelColor=0d0d0d" alt="Kafka">
 </p>
 
 ### Frontend / Full-stack
@@ -136,10 +161,10 @@ Aplicação full-stack de gestão gastronômica com autenticação JWT, Angular 
 
 ## Atualmente
 
-- Desenvolvendo sistemas no TRT8
-- Aprofundando Java e Spring Boot
-- Trabalhando em projetos full-stack com Angular
-- Construindo ferramentas que transformam problemas concretos em software
+- Estagiário no TRT8, desenvolvendo o GPREC Nacional com Java, Spring Boot e Angular
+- Construindo o De Lá do Pará: checkout confiável com outbox, idempotência e Kafka
+- Contribuindo com open source (ai-memory)
+- Buscando estágio ou vaga júnior em backend e full stack
 
 ## Contato
 

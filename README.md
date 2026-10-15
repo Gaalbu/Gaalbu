@@ -156,7 +156,7 @@ Rastreio de pacotes com eventos assíncronos, filas e trilha de auditoria. Monor
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Gaalbu&theme=dark&hide_border=true&background=00000000&ring=C1121F&fire=C1121F&currStreakLabel=C1121F&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=8a8a8a" alt="Streak de contribuições de Gabriel Albuquerque Alencar">
+  <img src="https://streak-stats.demolab.com/?user=Gaalbu&theme=dark&hide_border=true&background=00000000&&count_private_commits=true&ring=C1121F&fire=C1121F&currStreakLabel=C1121F&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=8a8a8a" alt="Streak de contribuições de Gabriel Albuquerque Alencar">
 </div>
 
 ## Atualmente
